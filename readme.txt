@@ -4,4 +4,4 @@ Github
 
 パスワード betio or jinx05betio
 
-Maile git.betio@gmail.com
+Mail git.betio@gmail.com
